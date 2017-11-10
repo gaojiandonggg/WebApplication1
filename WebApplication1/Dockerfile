@@ -1,5 +1,5 @@
 # 声明使用的基础镜像
-FROM dotnet-sdk-2.0.0
+FROM microsoft/aspnetcore:2.0
 # 将本地dotnet core 应用拷贝到 容器 /app/ 目录下
 #COPY netcoreapp1.1/publish/ /app/
 # 设置工作目录
