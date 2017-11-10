@@ -1,0 +1,11 @@
+E:\学习\GitHub\Jenkins\WebApplication1\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.deps.json
+E:\学习\GitHub\Jenkins\WebApplication1\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.json
+E:\学习\GitHub\Jenkins\WebApplication1\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.runtimeconfig.dev.json
+E:\学习\GitHub\Jenkins\WebApplication1\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.dll
+E:\学习\GitHub\Jenkins\WebApplication1\WebApplication2\bin\Debug\netcoreapp2.0\WebApplication2.pdb
+E:\学习\GitHub\Jenkins\WebApplication1\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csprojResolveAssemblyReference.cache
+E:\学习\GitHub\Jenkins\WebApplication1\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.csproj.CoreCompileInputs.cache
+E:\学习\GitHub\Jenkins\WebApplication1\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfoInputs.cache
+E:\学习\GitHub\Jenkins\WebApplication1\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.AssemblyInfo.cs
+E:\学习\GitHub\Jenkins\WebApplication1\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.dll
+E:\学习\GitHub\Jenkins\WebApplication1\WebApplication2\obj\Debug\netcoreapp2.0\WebApplication2.pdb
