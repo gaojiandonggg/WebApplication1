@@ -7,4 +7,4 @@ FROM microsoft/aspnetcore:2.0
 # 设置导出端口
 EXPOSE 8081/tcp
 # 指定应用入口点
-ENTRYPOINT ["dotnet", "/root/.jenkins/workspace/Docker/WebApplication1/WebApplication1/WebApplication1.dll"]
+ENTRYPOINT ["dotnet", "bin/Debug/netcoreapp2.0/publish/WebApplication1.dll"]
