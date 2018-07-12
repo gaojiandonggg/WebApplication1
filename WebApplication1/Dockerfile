@@ -1,5 +1,5 @@
 # 声明使用的基础镜像
-FROM microsoft/dotnet
+FROM microsoft/dotnet:latest
 # 将本地dotnet core 应用拷贝到 容器 /app/ 目录下
 COPY ./bin/Debug/netcoreapp2.0/publish/ /webapplication1/
 # 设置工作目录
